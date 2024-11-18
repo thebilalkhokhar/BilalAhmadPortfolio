@@ -631,10 +631,11 @@ canvas {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  justify-content: center;
   text-align: center;
 }
 .main-section .hero-section .about-section .illustration .coder-img {
-  width: 100%;
+  width: 70%;
 }
 @media (max-width: 1000px) {
   .main-section .hero-section .about-section .illustration .coder-img {
