@@ -1074,7 +1074,7 @@ canvas {
   position: absolute;
   z-index: 5;
   top: 10%;
-  left: 85%;
+  left: 50%;
   -webkit-transform: translate(-50%, 0);
   transform: translate(-50%, 0);
   width: -webkit-max-content;
